@@ -65,7 +65,7 @@ git clone https://github.com/YOUR_USERNAME/sales-currency-region-dashboard.git
 ## 📁 File Structure
 
 ```
-📦 sales-currency-region-dashboard
+📦 GlobalSales360
  ┣ 📊 Sales_Currency_Region_Dashboard.pbix
  ┣ 📄 README.md
  ┗ 📁 screenshots/
